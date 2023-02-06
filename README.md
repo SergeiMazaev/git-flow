@@ -1,5 +1,5 @@
 # Работа с гитом
-
+[Про git flow](https://docs.google.com/document/d/1-3uqgKUOGAC5OYvIRQ37CcJ1yepnSWdJysfUZ5aQN58/edit)
 ## Базовые принципы
 
 ### Создание коммитов
