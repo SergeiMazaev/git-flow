@@ -1,4 +1,3 @@
-const createBoard = require('./utils/createBoard');
-const displayBoard = require('./displayBoard')
+const startGame = require('./game');
 
-displayBoard(createBoard())
+startGame()
