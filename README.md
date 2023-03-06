@@ -24,6 +24,7 @@
 7. `git merge main`
 8. Решаем конфликты, если они есть
 9. Пушим в репозиторий `git push --set-upstream origin yourBranchName`
+10. Создаем пул реквест
 
 ## Базовые команды
 
