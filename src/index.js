@@ -1,3 +1,3 @@
-const createBoard = require('./utils/createBoard');
+const startGame = require('./game');
 
-console.log(createBoard())
+startGame()
